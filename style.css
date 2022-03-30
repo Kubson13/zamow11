@@ -1,0 +1,594 @@
+.title {
+position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 24px;
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #2196F3;}
+.Agencja {
+    position: absolute;
+    width: 53px;
+    height: 16px;
+    left: 453px;
+    top: 32px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;
+}
+.Portfolio{
+position: absolute;
+width: 58px;
+height: 16px;
+left: 552px;
+top: 32px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #212121;
+
+}
+.Kontakt{
+position: absolute;
+width: 51px;
+height: 16px;
+left: 656px;
+top: 32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+}
+.Mail{
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 1078px;
+    top: 32px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #2196F3;
+}
+.Telefon{
+    position: absolute;
+width: 110px;
+height: 16px;
+left: 1263px;
+top: 32px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #757575;}
+.bt1{
+    position: absolute;
+width: 77px;
+height: 26px;
+left: 532px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+}
+.wsz{
+    position: absolute;
+width: 121px;
+height: 38px;
+left: 510px;
+top: 174px;
+
+background: #2196F3;
+
+box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+}
+.img1{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 262px;
+
+background: url(img/img.jpg);
+
+}
+.Technocrack{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 576px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+letter-spacing: 0.06em;
+
+color: #212121;
+
+}
+.techno{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.img11{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 262px;
+
+background: url(img/img\ \(1\).jpg);
+}
+.Dizajn{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.New{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 576px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.img2{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 262px;
+
+background: url(img/img\ \(2\).jpg);
+}
+.Rest{
+    position: absolute;
+    width: 322px;
+    height: 36px;
+    left: 1039px;
+    top: 576px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 36px;
+    
+    
+    letter-spacing: 0.06em;
+    
+    color: #212121;
+}
+.apk{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 616px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.img3{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 696px;
+
+background: url(img/img\ \(3\).jpg);
+}
+.pp{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.mrk{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.img4{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 696px;
+
+background: url(img/img\ \(4\).jpg);
+}
+.pb{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.apk2{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.img5{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 696px;
+
+background: url(img/img\ \(5\).jpg);
+}
+.insp{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1010px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.Strona{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1050px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.img6{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 1130px;
+
+background: url(img/img\ \(6\).jpg);
+}
+.le{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.dzj{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.img7{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 1130px;
+
+background: url(img/img\ \(7\).jpg);
+}
+.pb2{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.mrk2{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.img8{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 1130px;}
+
+.GB{
+    position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1444px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;
+
+letter-spacing: 0.06em;
+
+color: #212121;
+}
+.apk3{
+    position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1484px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+
+letter-spacing: 0.03em;
+
+color: #757575;
+}
+.logo{
+    position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 2157px;
+
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+
+letter-spacing: 0.03em;
+
+color: #2196F3;
+}
+.WWA{
+    position: absolute;
+    width: 246px;
+    height: 21px;
+    left: 215px;
+    top: 2208px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    
+    letter-spacing: 0.03em;
+    
+    color: #FFFFFF;   
+}
+.mail{
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 2238px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    
+    letter-spacing: 0.03em;
+    
+    color: rgba(255, 255, 255, 0.6);    
+}
+.tel{
+    position: absolute;
+    width: 231px;
+    height: 21px;
+    left: 215px;
+    top: 2268px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    
+    letter-spacing: 0.03em;
+    
+    color: rgba(255, 255, 255, 0.6);    
+}
+.foot{ position: absolute;
+    width: 1600px;
+    height: 252px;
+    left: 0px;
+    top: 2097px;
+    
+    background: #2F303A;}
